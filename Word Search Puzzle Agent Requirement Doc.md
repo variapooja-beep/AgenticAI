@@ -1,5 +1,5 @@
 # AgenticAI
-Topics covered in Agentic AI and Assignments
+Agentic AI Assignments 1
 
 # 🧩 Word Search Puzzle Agent
 
